@@ -10,8 +10,8 @@ public class Main {
         if((ingresos < 489083) && (vehiculos < 3) && (antiguedad >= 5) && (inmuebles < 3) && (lujo == false)){
             System.out.println("No se le otorga ningun subsidio");
         }
-        /*else{
+        else{
             System.out.println("Consultar por Subsidios");
-        }*/
+        }
     }
 }
